@@ -1,0 +1,9 @@
+.options {
+  margin: 10px;
+}
+
+button {
+  border-radius: 8px;
+  margin: 5px;
+  background-color: rgb(103, 202, 229);
+}
